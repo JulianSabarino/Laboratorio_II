@@ -1,0 +1,16 @@
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.csproj.AssemblyReference.cache
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.AssemblyInfoInputs.cache
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.AssemblyInfo.cs
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.csproj.CoreCompileInputs.cache
+D:\repos\Laboratorio_II\Ejercicio I01\bin\Debug\net5.0\Ejercicio I01.exe
+D:\repos\Laboratorio_II\Ejercicio I01\bin\Debug\net5.0\Ejercicio I01.deps.json
+D:\repos\Laboratorio_II\Ejercicio I01\bin\Debug\net5.0\Ejercicio I01.runtimeconfig.json
+D:\repos\Laboratorio_II\Ejercicio I01\bin\Debug\net5.0\Ejercicio I01.runtimeconfig.dev.json
+D:\repos\Laboratorio_II\Ejercicio I01\bin\Debug\net5.0\Ejercicio I01.dll
+D:\repos\Laboratorio_II\Ejercicio I01\bin\Debug\net5.0\Ejercicio I01.pdb
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.dll
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\refint\Ejercicio I01.dll
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.pdb
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\Ejercicio I01.genruntimeconfig.cache
+D:\repos\Laboratorio_II\Ejercicio I01\obj\Debug\net5.0\ref\Ejercicio I01.dll
