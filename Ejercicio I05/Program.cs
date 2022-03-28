@@ -12,39 +12,41 @@ namespace Ejercicio_I05
             do
             {
                 num = int.Parse(Console.ReadLine());
-                if (num <= 0)
+                if (num <= 2)
                     Console.WriteLine("Ingrese un numero valido");
 
-            } while (num <= 0);
+            } while (num <= 2);
 
-            Program.PrintCenter(num);
-
-        }
-
-        static void PrintCenter(int num)
-        {
-            int cont = 0;
-
-            int acHi = num;
-            int acLow = 0;
-/*
-            do
+            for(int i = 2; i < num; i++)
             {
-                acHi = acHi + (acHi - 1);
-                acLow = acLow + (acLow + 1);
-                cont++;
+                if (Program.IsCenter(i, num))
+                    Console.WriteLine(i);
+            }
 
-                Console.WriteLine("Hi:{0} Low:{1} cont:{2}",acHi, acLow,cont);
-                Console.ReadKey();
-
-            }while (acLow < acHi && cont < num);
-*/
-            Console.WriteLine(cont);
         }
 
-        static int FindCenter(int num)
+        public static bool IsCenter(int cnum,int num)
         {
-            return 0;
+            int gauss = DoGauss(cnum - 1);
+            int acCnum = 0;
+            bool isCenter = false;
+
+            for(int i = (cnum + 1); i <= num; i++)
+            {
+                acCnum = acCnum + i;
+                if (acCnum >= gauss)
+                    break;
+            }
+
+            if (acCnum == gauss)
+                isCenter = true;
+
+            return isCenter;
+        }
+
+        static int DoGauss(int num)
+        {
+            return num * (num + 1) / 2;
         }
     }
 }
