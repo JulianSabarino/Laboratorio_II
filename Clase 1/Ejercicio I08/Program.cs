@@ -19,17 +19,16 @@ namespace Ejercicio_I08
 
             StringBuilder triangle = new StringBuilder("",altura);
 
-            for (int i = 1; i <= altura; i++)
+            for (int i = 1; i <= altura*2; i++)
             {
-                triangle.Clear();
-
-
-
-                for (int j = 1; j <= i; j++)
+                if (i % 2 == 1)
                 {
-                    triangle.Append("*");
-                }
-                Console.WriteLine(triangle.ToString());
+                    triangle.Clear();
+                    for (int j = 1; j <= i; j++)
+                    {
+                        triangle.Append("*");
+                    }
+                    Console.WriteLine(triangle.ToString());
                 }
             }
 
