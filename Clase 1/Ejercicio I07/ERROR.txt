@@ -1,0 +1,6 @@
+Unhandled exception. System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Ejercicio_I07.Program.FillEmployees(StringBuilder employees) in D:\repos\Laboratorio_II\Ejercicio I07\Program.cs:line 65
+   at Ejercicio_I07.Program.Main(String[] args) in D:\repos\Laboratorio_II\Ejercicio I07\Program.cs:line 23
