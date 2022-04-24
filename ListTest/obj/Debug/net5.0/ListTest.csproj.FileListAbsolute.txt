@@ -1,5 +1,0 @@
-D:\repos\Laboratorio_II\ListTest\obj\Debug\net5.0\ListTest.csproj.AssemblyReference.cache
-D:\repos\Laboratorio_II\ListTest\obj\Debug\net5.0\ListTest.GeneratedMSBuildEditorConfig.editorconfig
-D:\repos\Laboratorio_II\ListTest\obj\Debug\net5.0\ListTest.AssemblyInfoInputs.cache
-D:\repos\Laboratorio_II\ListTest\obj\Debug\net5.0\ListTest.AssemblyInfo.cs
-D:\repos\Laboratorio_II\ListTest\obj\Debug\net5.0\ListTest.csproj.CoreCompileInputs.cache
