@@ -1,0 +1,12 @@
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\bin\Debug\net5.0\Personas.deps.json
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\bin\Debug\net5.0\Personas.dll
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\bin\Debug\net5.0\Personas.pdb
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.csproj.AssemblyReference.cache
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.AssemblyInfoInputs.cache
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.AssemblyInfo.cs
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.csproj.CoreCompileInputs.cache
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.dll
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\refint\Personas.dll
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\Personas.pdb
+D:\repos\Laboratorio_II\Parcial 1\ClassLibrary1\obj\Debug\net5.0\ref\Personas.dll
