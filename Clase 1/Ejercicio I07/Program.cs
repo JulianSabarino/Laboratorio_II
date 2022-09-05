@@ -59,7 +59,7 @@ namespace Ejercicio_I07
 
             //////////////////////////////////////////////////////////////////
 
-            Console.WriteLine("Ingrese antiguedad (en a;os)");
+            Console.WriteLine("Ingrese antiguedad (en años)");
             do
             {
                 antique = int.Parse(Console.ReadLine());

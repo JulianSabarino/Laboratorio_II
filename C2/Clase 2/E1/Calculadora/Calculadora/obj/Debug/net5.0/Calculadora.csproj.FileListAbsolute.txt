@@ -1,0 +1,16 @@
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+D:\repos\Laboratorio_II\C2\Clase 2\E1\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll

@@ -39,10 +39,10 @@ namespace SabarinoJulian_Parcial1
             if (lstMedicos.SelectedItems.Count > 0 && lstPacientes.SelectedItems.Count > 0)
             {
 
-                Paciente paciente = lstPacientes.SelectedItem as Paciente;
+                Paciente paciente = (Paciente)lstPacientes.SelectedItem;
                 paciente.Diagnostico = "Paciente Curado";
 
-                PersonalMedico medico = lstMedicos.SelectedItem as PersonalMedico;
+                PersonalMedico? medico = lstMedicos.SelectedItem as PersonalMedico;
                 Consulta consulta = new Consulta(DateTime.Now, paciente);
 
                 medico += consulta;
@@ -64,7 +64,7 @@ namespace SabarinoJulian_Parcial1
 
         private void lstMedicos_SelectedIndexChanged(object sender, EventArgs e)
         {
-            PersonalMedico medico = lstMedicos.SelectedItem as PersonalMedico;
+            PersonalMedico medico = (PersonalMedico)lstMedicos.SelectedItem;
             string mensaje = medico.FichaPersonal();
             rtb_infoMedicos.Text = mensaje;
         }

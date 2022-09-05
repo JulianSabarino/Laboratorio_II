@@ -1,0 +1,16 @@
+D:\repos\Laboratorio_II\C2\Clase 4\C4\bin\Debug\net5.0\C4.exe
+D:\repos\Laboratorio_II\C2\Clase 4\C4\bin\Debug\net5.0\C4.deps.json
+D:\repos\Laboratorio_II\C2\Clase 4\C4\bin\Debug\net5.0\C4.runtimeconfig.json
+D:\repos\Laboratorio_II\C2\Clase 4\C4\bin\Debug\net5.0\C4.runtimeconfig.dev.json
+D:\repos\Laboratorio_II\C2\Clase 4\C4\bin\Debug\net5.0\C4.dll
+D:\repos\Laboratorio_II\C2\Clase 4\C4\bin\Debug\net5.0\C4.pdb
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.csproj.AssemblyReference.cache
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.AssemblyInfoInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.AssemblyInfo.cs
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.csproj.CoreCompileInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.dll
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\refint\C4.dll
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.pdb
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\C4.genruntimeconfig.cache
+D:\repos\Laboratorio_II\C2\Clase 4\C4\obj\Debug\net5.0\ref\C4.dll

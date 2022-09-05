@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\Laboratorio_II\\Ejercicio I04\\Ejercicio I04.csproj": {}
+    "D:\\repos\\Laboratorio_II\\Clase 2\\Ejercicio I04\\Ejercicio I04.csproj": {}
   },
   "projects": {
-    "D:\\repos\\Laboratorio_II\\Ejercicio I04\\Ejercicio I04.csproj": {
+    "D:\\repos\\Laboratorio_II\\Clase 2\\Ejercicio I04\\Ejercicio I04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Laboratorio_II\\Ejercicio I04\\Ejercicio I04.csproj",
+        "projectUniqueName": "D:\\repos\\Laboratorio_II\\Clase 2\\Ejercicio I04\\Ejercicio I04.csproj",
         "projectName": "Ejercicio I04",
-        "projectPath": "D:\\repos\\Laboratorio_II\\Ejercicio I04\\Ejercicio I04.csproj",
+        "projectPath": "D:\\repos\\Laboratorio_II\\Clase 2\\Ejercicio I04\\Ejercicio I04.csproj",
         "packagesPath": "C:\\Users\\JS\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Laboratorio_II\\Ejercicio I04\\obj\\",
+        "outputPath": "D:\\repos\\Laboratorio_II\\Clase 2\\Ejercicio I04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

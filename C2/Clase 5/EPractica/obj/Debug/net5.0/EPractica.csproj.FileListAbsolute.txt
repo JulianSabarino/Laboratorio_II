@@ -1,0 +1,16 @@
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\bin\Debug\net5.0\EPractica.exe
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\bin\Debug\net5.0\EPractica.deps.json
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\bin\Debug\net5.0\EPractica.runtimeconfig.json
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\bin\Debug\net5.0\EPractica.runtimeconfig.dev.json
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\bin\Debug\net5.0\EPractica.dll
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\bin\Debug\net5.0\EPractica.pdb
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.csproj.AssemblyReference.cache
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.AssemblyInfoInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.AssemblyInfo.cs
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.csproj.CoreCompileInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.dll
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\refint\EPractica.dll
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.pdb
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\EPractica.genruntimeconfig.cache
+D:\repos\Laboratorio_II\C2\Clase 5\EPractica\obj\Debug\net5.0\ref\EPractica.dll

@@ -1,0 +1,16 @@
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\bin\Debug\net5.0\E3.exe
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\bin\Debug\net5.0\E3.deps.json
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\bin\Debug\net5.0\E3.runtimeconfig.json
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\bin\Debug\net5.0\E3.runtimeconfig.dev.json
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\bin\Debug\net5.0\E3.dll
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\bin\Debug\net5.0\E3.pdb
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.csproj.AssemblyReference.cache
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.AssemblyInfoInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.AssemblyInfo.cs
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.csproj.CoreCompileInputs.cache
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.dll
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\refint\E3.dll
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.pdb
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\E3.genruntimeconfig.cache
+D:\repos\Laboratorio_II\C2\Clase 3\E3\E3\obj\Debug\net5.0\ref\E3.dll

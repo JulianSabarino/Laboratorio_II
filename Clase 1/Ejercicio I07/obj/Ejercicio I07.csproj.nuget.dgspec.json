@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\Laboratorio_II\\Ejercicio I07\\Ejercicio I07.csproj": {}
+    "D:\\repos\\Laboratorio_II\\Clase 1\\Ejercicio I07\\Ejercicio I07.csproj": {}
   },
   "projects": {
-    "D:\\repos\\Laboratorio_II\\Ejercicio I07\\Ejercicio I07.csproj": {
+    "D:\\repos\\Laboratorio_II\\Clase 1\\Ejercicio I07\\Ejercicio I07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\Laboratorio_II\\Ejercicio I07\\Ejercicio I07.csproj",
+        "projectUniqueName": "D:\\repos\\Laboratorio_II\\Clase 1\\Ejercicio I07\\Ejercicio I07.csproj",
         "projectName": "Ejercicio I07",
-        "projectPath": "D:\\repos\\Laboratorio_II\\Ejercicio I07\\Ejercicio I07.csproj",
+        "projectPath": "D:\\repos\\Laboratorio_II\\Clase 1\\Ejercicio I07\\Ejercicio I07.csproj",
         "packagesPath": "C:\\Users\\JS\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\Laboratorio_II\\Ejercicio I07\\obj\\",
+        "outputPath": "D:\\repos\\Laboratorio_II\\Clase 1\\Ejercicio I07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JS\\AppData\\Roaming\\NuGet\\NuGet.Config",
