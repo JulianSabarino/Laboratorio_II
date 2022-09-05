@@ -15,7 +15,7 @@ namespace EPractica
             Producto p2 = new Producto("Coca-Cola", "COSDS55752", (float)11.5);
             Producto p3 = new Producto("Manaos", "MASDS51292", (float)20.5);
             Producto p4 = new Producto("Crush", "CRSDS54861", (float)10.75);
-
+            
             // Agrego los productos al estante
             if (estante + p1) //error aca
             {

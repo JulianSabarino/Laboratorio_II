@@ -80,7 +80,7 @@ namespace EPractica.Classes
         public static string MostrarProductos(Producto p)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{p.CodigoDeBarras}-{p.Marca}-----{p.Precio}");
+            sb.AppendLine($"{p.CodigoDeBarras}|{p.Marca}      ${p.Precio}");
             sb.AppendLine("_____________");
 
             return sb.ToString();

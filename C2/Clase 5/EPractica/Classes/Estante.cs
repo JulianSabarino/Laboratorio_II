@@ -30,7 +30,7 @@ namespace EPractica.Classes
             StringBuilder sb = new StringBuilder(); 
             foreach (Producto p in e.Productos)
             {
-                sb.Append(p.ToString());
+                sb.AppendLine(Producto.MostrarProductos(p));
             }
             return sb.ToString();//error aca
         }
